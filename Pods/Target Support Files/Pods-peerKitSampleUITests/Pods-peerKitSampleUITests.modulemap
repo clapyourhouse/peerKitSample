@@ -1,0 +1,6 @@
+framework module Pods_peerKitSampleUITests {
+  umbrella header "Pods-peerKitSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
